@@ -10,6 +10,7 @@ public class BootDay04MybatisPlusApplication {
         SpringApplication.run(BootDay04MybatisPlusApplication.class, args);
         System.out.println("hello,git!");
         System.out.println("hello,git2!");
+        System.out.println("hello,git3!");
     }
 
 }
