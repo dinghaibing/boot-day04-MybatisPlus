@@ -13,6 +13,7 @@ public class BootDay04MybatisPlusApplication {
         System.out.println("hello,git3!");
         System.out.println("hello,git5555!");
         System.out.println("hello,git4!");
+        System.out.println("push yesy!");
     }
 
 }
